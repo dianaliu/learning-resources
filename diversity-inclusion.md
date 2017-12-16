@@ -1,0 +1,4 @@
+- https://medium.com/@jay_gee/software-engineering-made-a-woman-outta-me-e60c10d3ed1f
+- http://blog.ellenchisa.com/2014/08/23/lunch-dads/
+- http://www.ashedryden.com/blog/the-responsibility-of-diversity
+- https://www.youtube.com/watch?v=4R6FXtZl154

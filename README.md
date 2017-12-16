@@ -1,7 +1,1 @@
-- http://www.opsschool.org/
-- https://linuxjourney.com/
-- http://linuxcommand.org/
-- https://landing.google.com/sre/book/index.html
-- https://nedbatchelder.com/text/slowsgrows.html
-- http://www.rookiemag.com/2016/11/how-internet-works/
-- https://increment.com/development/center-stage-best-practices-for-staging-environments/
+Link dump of resources
